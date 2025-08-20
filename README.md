@@ -41,7 +41,7 @@
 
 ### 📦 Featured Projects
 
-🔹 [Automation Examples](https://github.com/karinerb19/Automation_examples)  
+🔹 [Automation Examples](https://github.com/omascorro/automation-program-macVersion)  
 🔹 [Playwright & Cypress POC](#) *(coming soon)*  
 
 ---
