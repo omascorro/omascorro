@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karine</h1>
+<h1 align="center">Hi 👋, I'm Omar Mascorro </h1>
 
 <p align="center">
   <em>QA Automation Engineer | Java • Selenium • Playwright • Cypress • API Testing</em>
