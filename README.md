@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on designing and implementing automation frameworks using **Java, Selenium WebDriver, Playwright, Cypress, and RestAssured**.  
-- 🌱 I’m expanding my skills in **CI/CD pipelines (Jenkins, GitHub Actions, YAML)** and **Cloud Testing**.  
+- 🌱 I’m expanding my skills in **CI/CD pipelines (Jenkins, GitHub Actions)** and **Cloud Testing**.  
 - 👯 I’m looking to collaborate on projects that help manual testers transition into automation.  
 - 💬 Ask me about **Java, Selenium, Playwright, Cypress, API Testing, or Test Automation Best Practices**.  
 - 📫 How to reach me: [omar.mascorro@protonmail.com](mailto:your.email@example.com)  
