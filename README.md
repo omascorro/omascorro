@@ -53,6 +53,11 @@
 
 ---
 
+### 🚀 Featured Languages
+
+
+---
+
 ### 🏅 Certifications
 
 | Certification        | Link                           | Issued Date |
