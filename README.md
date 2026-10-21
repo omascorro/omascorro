@@ -14,7 +14,7 @@
 - 🍎 Independent **iOS developer**: I design, build, test and ship my own apps to the App Store with Swift and SwiftUI.
 - ✨ Using AI tools (Claude, ChatGPT, Kiro) to speed up test design, automation and root-cause analysis.
 - 🌎 Spanish (native) • English (C1) • Open to remote work.
-- 📫 Reach me at [omar.mascorro@protonmail.com](mailto:omar.mascorro@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/omar-mascorro-godinez-44420032a/)
+- 📫 Reach me at [omar.mascorro@protonmail.com](mailto:omar.mascorro@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/omar-mascorro-godinez/)
 
 ---
 
