@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Mascorro</h1>
 
 <p align="center">
-  <em>Senior QA Automation Engineer / SDET | Mobile • Web • API | iOS Developer</em>
+  <em>QA Automation Engineer / SDET | Mobile • Web • API | AI-Assisted Testing</em>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🧪 **14 years** in software testing at IBM, Amdocs, HCL, Concentrix and Ascendion (client: **Amazon Music**).
 - 📱 Mobile testing across **6 platforms**: iOS, Android, Fire TV, Fire Tablet, Samsung TV and LG TV.
 - 🤖 Automation with **Java + Selenium + TestNG, Appium, Playwright (TypeScript), Cypress and RestAssured**, integrated into CI/CD (Jenkins, GitHub Actions).
-- 🍎 Independent **iOS developer**: I design, build, test and ship my own apps to the App Store with Swift and SwiftUI.
+- 🍎 Built and published an **iOS app on the App Store** through AI-assisted development (Claude Code), owning its testing, quality and release.
 - ✨ Using AI tools (Claude, ChatGPT, Kiro) to speed up test design, automation and root-cause analysis.
 - 🌎 Spanish (native) • English (C1) • Open to remote work.
 - 📫 Reach me at [omar.mascorro@protonmail.com](mailto:omar.mascorro@protonmail.com) or on [LinkedIn](https://www.linkedin.com/in/omar-mascorro-godinez/)
@@ -24,7 +24,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" width="40" alt="Cypress"/>
@@ -44,7 +43,7 @@
 |:--|:--|:--|
 | [API Automation – RestAssured](https://github.com/omascorro/api-automation-restassured) | Java • RestAssured • JUnit 5 • Maven • Jenkins | REST API test automation with a Jenkins pipeline |
 | [UI Automation Framework](https://github.com/omascorro/automatio-program-macos-version) | Java • Selenium • JUnit 5 • Extent Reports • Jenkins | Web UI automation with Page Object Model and a WebDriver factory |
-| **Calma** – iOS app | Swift • SwiftUI • StoreKit 2 • Swift Testing | Wellness app designed, built, tested and published on the App Store |
+| **Calma** – iOS app | AI-assisted development (Claude Code) | Wellness app with subscriptions, tested and published on the App Store |
 
 ---
 
